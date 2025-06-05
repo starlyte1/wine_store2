@@ -97,7 +97,8 @@ body.showCart .container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
-.cartTab button{
+/* .cartTab button{ */
+:is(.checkOut, button){
     background-color: #E8BC0E;
     border: none;
     font-family: Poppins;
