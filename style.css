@@ -106,6 +106,8 @@ body.showCart .container{
     cursor: pointer;
     text-decoration: none;
     text-align: center;
+    align-items: center;
+    place-items: center;
 }
 .cartTab .close{
     background-color: #eee;
