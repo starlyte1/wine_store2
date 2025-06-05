@@ -104,6 +104,8 @@ body.showCart .container{
     font-family: Poppins;
     font-weight: 500;
     cursor: pointer;
+    text-decoration: none;
+    text-align: center;
 }
 .cartTab .close{
     background-color: #eee;
